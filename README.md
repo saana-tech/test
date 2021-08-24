@@ -19,8 +19,8 @@ Realizar un Fork de este repositorio (https://github.com/ORCAapplicants/backend-
 Clonar el fork a su máquina local git clone git@github.com:USERNAME/FORKED-PROJECT.git
 Crear un branch en su cuenta de GitHub utilizando su nombre completo.
 Al finalizar, existen 2 (dos) opciones para entregar su proyecto:
-Realizar un Commit de su proyecto, enviar un Pull Request al branch con su NOMBRE, y notificar a la siguiente dirección de correo electrónico developer@gcpglobal.com.
-Crear un archivo comprimido (.zip o .rar) de su proyecto y enviar a la siguiente dirección de correo electrónico developer@gcpglobal.com.
+Realizar un Commit de su proyecto, enviar un Pull Request al branch con su NOMBRE, y notificar a la siguiente dirección de correo electrónico jesus.eduardo@saana.com.co.
+Crear un archivo comprimido (.zip o .rar) de su proyecto y enviar a la siguiente dirección de correo electrónico jesus.eduardo@saana.com.co.
 
 
 
