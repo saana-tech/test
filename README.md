@@ -2,7 +2,7 @@ Prueba Técnica - Programador (Back-end)
 La siguiente es una prueba para evaluar a los postulantes a programador Back-end. (NODEJS)
 
 INTRODUCCIÓN
-Este repositorio contiene una serie de requerimientos de un Caso Práctico, que busca evaluar las capacidades técnicas del candidato con respecto a las principales funciones y responsabilidades que se requieren dentro del área de Desarrollo de Tecnología de GCP Global.
+Este repositorio contiene una serie de requerimientos de un Caso Práctico, que busca evaluar las capacidades técnicas del candidato con respecto a las principales funciones y responsabilidades que se requieren dentro del área de Desarrollo de saana.
 
 ¿Qué se busca evaluar?
 Principalmente los siguientes aspectos:
